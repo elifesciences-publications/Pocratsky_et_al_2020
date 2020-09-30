@@ -1,5 +1,5 @@
 Overview
-A GUI which was made to facilitate the creation of heatmaps as seen in the ![Pocratsky et al., 2020](https://doi.org/10.7554/eLife.53565) paper. The GUI was created using GUIDE in MatLab v2017b. 
+A GUI which was made to facilitate the creation of heatmaps as seen in the Pocratsky et al., 2020 (https://doi.org/10.7554/eLife.53565) paper. The GUI was created using GUIDE in MatLab v2017b. 
 It should be noted that this program was used to create heatmaps for neurons that had previously been identified. Neurons were marked using NIS-Elements Ar (Nikon Corporation, Minato City, Tokyo, Japan) using yellow or cyan markers. The program allows users to consolidate a directory of these images into locations of neurons normalized to the central canal and create heatmap distributions of neuron locations.
 
 Installation
